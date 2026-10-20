@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1071-docs-readme-and-contributing-claim-the-app",
+    "fix/issue-1073-refactor-accessibility-drop-the-nine-helpers-no",
+    "main",
+    "origin",
+    "security/issue-1070-docs-troubleshooting-fix-the-admin-access",
+    "security/issue-1072-docs-readme-document-supabase-service-role-key"
+  ],
+  "parent": {
+    "fix/issue-1071-docs-readme-and-contributing-claim-the-app": "main",
+    "fix/issue-1073-refactor-accessibility-drop-the-nine-helpers-no": "main",
+    "main": null,
+    "origin": "main",
+    "security/issue-1070-docs-troubleshooting-fix-the-admin-access": "main",
+    "security/issue-1072-docs-readme-document-supabase-service-role-key": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1071-docs-readme-and-contributing-claim-the-app",
+    "fix/issue-1073-refactor-accessibility-drop-the-nine-helpers-no",
+    "origin",
+    "security/issue-1070-docs-troubleshooting-fix-the-admin-access",
+    "security/issue-1072-docs-readme-document-supabase-service-role-key"
+  ]
+}
